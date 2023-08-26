@@ -1,0 +1,2 @@
+# my Alacritty config
+
